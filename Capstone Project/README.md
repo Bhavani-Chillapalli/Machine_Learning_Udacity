@@ -1,4 +1,4 @@
-# Capstone Project Proposal - TGS Salt Identification Challenge 
+# Capstone Project  TGS Salt Identification Challenge 
 
 ## Capstone Domain 
 
